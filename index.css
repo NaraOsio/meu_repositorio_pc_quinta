@@ -1,0 +1,9 @@
+img{
+    height: 300px;
+    width: 350px;
+}
+.maquina{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
